@@ -1,6 +1,6 @@
-# Tourist Travel Modes in Europe - Machine Learning Project
+# 🚧 Tourist Travel Modes in Europe - Machine Learning Project 🚧
 
-![Travel Modes](https://img.freepik.com/free-vector/travel-tourism-poster-with-photo_23-2148887183.jpg)  
+![Travel Modes](images/Budget-friendly-travel-destinations-in-Europe.jpg) 
 *Project focused on predicting key tourist behaviors to optimize travel services.*
 
 ---
