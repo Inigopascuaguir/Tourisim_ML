@@ -1,12 +1,12 @@
 # 🚧 Tourist Travel Modes in Europe - Machine Learning Project 🚧
 
-![Travel Modes](images/Budget-friendly-travel-destinations-in-Europe.jpg) 
+![Travel Modes](images/Budget-friendly-travel-destinations-in-Europe.jpg)
 *Project focused on predicting key tourist behaviors to optimize travel services.*
 
 ---
 
 ## 📌 Descripción del Proyecto
-Este proyecto utiliza el dataset **["Tourist Travel Modes in Europe"](https://www.kaggle.com/datasets/ashaychoudhary/tourist-travel-modes-in-europe-dataset/data)** para desarrollar modelos de Machine Learning que permitan predecir variables clave relacionadas con los hábitos de viaje de turistas en Europa. El objetivo es proporcionar insights accionables para empresas del sector turístico.
+Este proyecto utiliza el dataset **["Tourist Travel Modes in Europe"](https://www.kaggle.com/datasets/ashaychoudhary/tourist-travel-modes-in-europe-dataset/data)** para desarrollar modelos de Machine Learning que permitan predecir variables clave relacionadas con los hábitos de viaje de turistas en Europa. El fin es generar recomendaciones concretas que impulsen acciones medibles en negocios del sector turístico, optimizando su rentabilidad y experiencia del cliente.
 
 ### Dataset Overview
 El dataset contiene las siguientes variables:
@@ -25,14 +25,14 @@ El dataset contiene las siguientes variables:
 
 ## 🎯 Variables Objetivo (Targets)
 
-### 1. **`Total_Travel_Cost` (Regresión)**  
+### 1. **Total_Travel_Cost**  
 **Objetivo**: Predecir el costo total del viaje en función de variables como la duración, el medio de transporte, el alojamiento y la temporada.  
 **Implicación Empresarial**:  
 - Permite a **agencias de viajes** ofrecer paquetes personalizados ajustados al presupuesto del cliente.  
 - Ayuda a plataformas como **Booking** o **Airbnb** a implementar precios dinámicos basados en la demanda estacional o el perfil del turista.  
 - Facilita la identificación de segmentos de alto gasto para estrategias de marketing premium.
 
-### 2. **`Season_of_Visit` (Clasificación)**  
+### 2. **Season_of_Visit**  
 **Objetivo**: Predecir la temporada en la que un turista realizará su viaje según sus preferencias y características.  
 **Implicación Empresarial**:  
 - Empresas de transporte (ej: aerolíneas) pueden optimizar rutas y frecuencia de vuelos en temporadas específicas.  
