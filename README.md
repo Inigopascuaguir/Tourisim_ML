@@ -1,7 +1,6 @@
 # 🚧 Tourist Travel Modes in Europe - Machine Learning Project 🚧
 
 ![Travel Modes](images/Budget-friendly-travel-destinations-in-Europe.jpg)
-*Project focused on predicting key tourist behaviors to optimize travel services.*
 
 ---
 
